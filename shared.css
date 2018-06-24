@@ -1,0 +1,25 @@
+* { 
+    box-sizing: border-box;
+}
+
+
+/* .hero {
+   margin: 0;
+   padding: 0;
+}
+ */
+
+a.brand-logo{
+    font-size: 1.2rem;
+}
+
+div.container a{
+    color: black;
+}
+
+@media( min-width: 40rem){
+    a.brand-logo{
+        font-size: 2.1rem ;
+    }
+}
+

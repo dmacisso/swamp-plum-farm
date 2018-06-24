@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    /* font-size:1rem; */
+    margin: 0;
+    background-image: url('../images/sunSet5.jpg');
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+    
+}
+
+
+.lightbox-garden--image {
+    width: 100%; 
+    height: 50%;
+    margin-top:  1rem;
+}

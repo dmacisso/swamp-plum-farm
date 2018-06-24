@@ -1,0 +1,28 @@
+.main-slider {
+    /* max-width: 1400px; */
+}
+
+
+.lightbox-icecream {
+    /* background-image: url('images/sunset4.jpg');
+    background-repeat: no-repeat;
+    background-position-x: right; */
+
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    /* font-size:1rem; */
+    margin: 0;
+    background-image: url('images/sunset4.jpg');
+    background-repeat: no-repeat;
+    background-position-x: right;
+}
+
+
+.lightbox-main--image {
+    width: 100%; 
+    height: 50%;
+    margin-top:  1rem;
+}
