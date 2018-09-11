@@ -9,17 +9,35 @@
 }
  */
 
-a.brand-logo{
-    font-size: 1.2rem;
+ .spacer {
+     height: 0;
+ }
+
+
+a.brand-logo,
+footer {
+    font-size: 1.5rem;
 }
 
 div.container a{
     color: black;
 }
 
+/* footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    font-size: 1.2rem;
+} */
+
 @media( min-width: 40rem){
     a.brand-logo{
         font-size: 2.1rem ;
     }
+
+    .spacer {
+        height: 21rem;
+    }
+
 }
 
